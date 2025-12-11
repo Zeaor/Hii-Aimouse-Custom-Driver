@@ -14,3 +14,4 @@
 * 必要的函式庫：
   ```bash
   pip install -r requirements.txt
+<img width="871" height="726" alt="image" src="https://github.com/user-attachments/assets/48781eb6-8b76-4e25-a3e5-f2cd2452a351" />
