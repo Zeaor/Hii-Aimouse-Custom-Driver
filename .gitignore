@@ -7,7 +7,7 @@ build/
 dist/
 *.spec
 
-# 忽略虛擬環境 (看你把它命名為什麼)
+# 忽略虛擬環境
 venv/
 myenv/
 env/
@@ -16,5 +16,5 @@ env/
 .vscode/
 .idea/
 
-# 忽略個人的設定檔 (如果你不想公開你的設定)
+# 忽略個人的設定檔
 # config.json
