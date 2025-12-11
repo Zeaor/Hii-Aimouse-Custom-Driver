@@ -1,0 +1,20 @@
+# 忽略 Python 編譯檔
+__pycache__/
+*.pyc
+
+# 忽略打包產生的檔案
+build/
+dist/
+*.spec
+
+# 忽略虛擬環境 (看你把它命名為什麼)
+venv/
+myenv/
+env/
+
+# 忽略 IDE 設定檔
+.vscode/
+.idea/
+
+# 忽略個人的設定檔 (如果你不想公開你的設定)
+# config.json
